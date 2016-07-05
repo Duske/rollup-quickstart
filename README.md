@@ -1,4 +1,4 @@
-# rollup-quickstart
+# rollup-quickstart [![Build Status](https://travis-ci.org/Duske/rollup-quickstart.svg?branch=1.0.0)](https://travis-ci.org/Duske/rollup-quickstart)
 
 This package provides a simple quickstarter setup for rollup projects. It's
 heavily inspired by the official [rollup-starter-project package](https://github.com/rollup/rollup-starter-project) but it has
